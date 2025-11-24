@@ -1,0 +1,683 @@
+Invoice:
+Transaksi{id=6d40c03f-8337-484c-a492-95ed52b83979, customer=customer, items=20, total=1000000.0}Metode Pembayaran: QRIS - ID: QRIS001========== INVOICE ==========
+Transaksi ID : 5a8265ba-d389-49cb-b580-3402fda37157
+Customer     : customer
+Waktu        : 2025-11-22 21:13:16
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+3         Skintific                 50000.00     20    1000000.00  Memutihkan            Polwer              
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1000000.00
+
+Metode Pembayaran: QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 5a8265ba-d389-49cb-b580-3402fda37157
+Customer     : customer
+Waktu        : 2025-11-22 21:13:16
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+3         Skintific                 50000.00     20    1000000.00  Memutihkan            Polwer              
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1000000.00
+
+Metode Pembayaran: QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 5a8265ba-d389-49cb-b580-3402fda37157
+Customer     : customer
+Waktu        : 2025-11-22 21:13:16
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+3         Skintific                 50000.00     20    1000000.00  Memutihkan            Polwer              
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1000000.00
+
+Metode Pembayaran: QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 651d3fec-c3b2-4798-9195-872611e2a5c2
+Customer     : dia
+Waktu        : 2025-11-23 07:09:13
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+15        Lip Sleeping Mask         60000.00      1      60000.00  Masker bibir untu...  BerrySoft           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                               60000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 651d3fec-c3b2-4798-9195-872611e2a5c2
+Customer     : dia
+Waktu        : 2025-11-23 07:09:13
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+15        Lip Sleeping Mask         60000.00      1      60000.00  Masker bibir untu...  BerrySoft           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                               60000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 651d3fec-c3b2-4798-9195-872611e2a5c2
+Customer     : dia
+Waktu        : 2025-11-23 07:09:13
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+15        Lip Sleeping Mask         60000.00      1      60000.00  Masker bibir untu...  BerrySoft           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                               60000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 651d3fec-c3b2-4798-9195-872611e2a5c2
+Customer     : dia
+Waktu        : 2025-11-23 07:09:13
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+15        Lip Sleeping Mask         60000.00      1      60000.00  Masker bibir untu...  BerrySoft           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                               60000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : f87dca64-eae9-4b1f-b192-af011a36a54a
+Customer     : dia
+Waktu        : 2025-11-23 07:10:00
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+12        Ceramide Barrier ...     145000.00      2     290000.00  Pelembab untuk me...  DermaCare           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              290000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 37c4be2c-3980-45d3-8084-75537aec1a66
+Customer     : dia
+Waktu        : 2025-11-23 08:17:15
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+09        Revitalizing Eye ...     135000.00      1     135000.00  Krim mata untuk m...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              245000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : dc89b71e-ebc7-4306-ad90-7efbe8a24bcd
+Customer     : dia
+Waktu        : 2025-11-23 08:26:27
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+01        Unitary                  466000.00      2     932000.00  Pembersih wajah p...  GlowSkin            
+02        Hydrating Toner           65000.00      2     130000.00  Toner pelembab de...  AquaFace            
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1062000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 231c3966-52bb-41e3-9075-7fdb9cd81269
+Customer     : dia
+Waktu        : 2025-11-23 08:33:23
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+02        Hydrating Toner           65000.00     23    1495000.00  Toner pelembab de...  AquaFace            
+03        Vitamin C Serum          125000.00      4     500000.00  Serum pencerah wa...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1995000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 231c3966-52bb-41e3-9075-7fdb9cd81269
+Customer     : dia
+Waktu        : 2025-11-23 08:33:23
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+02        Hydrating Toner           65000.00     23    1495000.00  Toner pelembab de...  AquaFace            
+03        Vitamin C Serum          125000.00      4     500000.00  Serum pencerah wa...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1995000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 231c3966-52bb-41e3-9075-7fdb9cd81269
+Customer     : dia
+Waktu        : 2025-11-23 08:33:23
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+02        Hydrating Toner           65000.00     23    1495000.00  Toner pelembab de...  AquaFace            
+03        Vitamin C Serum          125000.00      4     500000.00  Serum pencerah wa...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1995000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 231c3966-52bb-41e3-9075-7fdb9cd81269
+Customer     : dia
+Waktu        : 2025-11-23 08:33:23
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+02        Hydrating Toner           65000.00     23    1495000.00  Toner pelembab de...  AquaFace            
+03        Vitamin C Serum          125000.00      4     500000.00  Serum pencerah wa...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1995000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 231c3966-52bb-41e3-9075-7fdb9cd81269
+Customer     : dia
+Waktu        : 2025-11-23 08:33:23
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+02        Hydrating Toner           65000.00     23    1495000.00  Toner pelembab de...  AquaFace            
+03        Vitamin C Serum          125000.00      4     500000.00  Serum pencerah wa...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1995000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Trans ID     : a5051238-8f79-44fa-913c-0d75930c9801
+Customer     : dia
+Waktu        : 2025-11-23 09:49:49
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+02        Hydrating Toner                   65000.00       1         65000.00  AquaFace       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          531000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 197cd086-d320-4e36-83b5-ef95282553aa
+Customer     : dia
+Waktu        : 2025-11-23 09:50:00
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+02        Hydrating Toner                   65000.00       2        130000.00  AquaFace       
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          255000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 31de38b3-199e-4253-a0f2-ec65409bf182
+Customer     : dia
+Waktu        : 2025-11-23 08:30:14
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+08        Niacinamide Essence      110000.00      1     110000.00  Essence untuk mem...  GlowSkin            
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              165000.00
+
+Metode Pembayaran: Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 231c3966-52bb-41e3-9075-7fdb9cd81269
+Customer     : dia
+Waktu        : 2025-11-23 08:33:23
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+02        Hydrating Toner           65000.00     23    1495000.00  Toner pelembab de...  AquaFace            
+03        Vitamin C Serum          125000.00      4     500000.00  Serum pencerah wa...  LuminaCare          
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                             1995000.00
+
+Metode Pembayaran: COD - ID: COD001
+=============================
+
+========== INVOICE ==========
+Transaksi ID : 2e15829a-4ed3-4617-a72b-fb6bf9be7050
+Customer     : dia
+Waktu        : 2025-11-23 09:50:42
+
+ID        Nama Barang                  Harga    Qty      Subtotal  Deskripsi             Brand               
+-------------------------------------------------------------------------------------------------------------
+09        Revitalizing Eye ...     135000.00      1     135000.00  Krim mata untuk m...  LuminaCare          
+07        Acne Spot Treatment       55000.00      1      55000.00  Obat totol jerawa...  ClearSkin           
+15        Lip Sleeping Mask         60000.00      2     120000.00  Masker bibir untu...  BerrySoft           
+-------------------------------------------------------------------------------------------------------------
+TOTAL:                                              310000.00
+
+Metode Pembayaran: QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : a5051238-8f79-44fa-913c-0d75930c9801
+Customer     : dia
+Waktu        : 2025-11-23 09:49:49
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+02        Hydrating Toner                   65000.00       1         65000.00  AquaFace       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          531000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 197cd086-d320-4e36-83b5-ef95282553aa
+Customer     : dia
+Waktu        : 2025-11-23 09:50:00
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+02        Hydrating Toner                   65000.00       2        130000.00  AquaFace       
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          255000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 67bfc507-4fb4-4013-977e-b7325d5dac26
+Customer     : dia
+Waktu        : 2025-11-23 09:55:02
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+02        Hydrating Toner                   65000.00       3        195000.00  AquaFace       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          195000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 67bfc507-4fb4-4013-977e-b7325d5dac26
+Customer     : dia
+Waktu        : 2025-11-23 09:55:02
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+02        Hydrating Toner                   65000.00       3        195000.00  AquaFace       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          195000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 67bfc507-4fb4-4013-977e-b7325d5dac26
+Customer     : dia
+Waktu        : 2025-11-23 09:55:02
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+02        Hydrating Toner                   65000.00       3        195000.00  AquaFace       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          195000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : fe3a033f-1094-42db-9dd8-89df2f063b40
+Customer     : dia
+Waktu        : 2025-11-23 11:05:53
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          466000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : dde85985-a2c4-4e9c-9a66-6ec66eb83ac9
+Customer     : dia
+Waktu        : 2025-11-23 11:05:48
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+02        Hydrating Toner                   65000.00       2        130000.00  AquaFace       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          596000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : fe3a033f-1094-42db-9dd8-89df2f063b40
+Customer     : dia
+Waktu        : 2025-11-23 11:05:53
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          466000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : b16ad409-e330-4490-9124-cf72b652e91c
+Customer     : dia
+Waktu        : 2025-11-23 11:57:09
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          125000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : b16ad409-e330-4490-9124-cf72b652e91c
+Customer     : dia
+Waktu        : 2025-11-23 11:57:09
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          125000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : E264E5CB
+Customer     : dia
+Waktu        : 2025-11-23 16:08:07
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          466000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : E264E5CB
+Customer     : dia
+Waktu        : 2025-11-23 16:08:07
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          466000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : E264E5CB
+Customer     : dia
+Waktu        : 2025-11-23 16:08:07
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       1        466000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          466000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : E5A1EF87
+Customer     : dia
+Waktu        : 2025-11-23 16:53:44
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          125000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 0FFA213E
+Customer     : dia
+Waktu        : 2025-11-23 16:53:23
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       2        932000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          932000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : E5A1EF87
+Customer     : dia
+Waktu        : 2025-11-23 16:53:44
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          125000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 0FFA213E
+Customer     : dia
+Waktu        : 2025-11-23 16:53:23
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+01        Unitary                          466000.00       2        932000.00  GlowSkin       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          932000.00
+
+Metode Bayar : QRIS - ID: QRIS001
+=============================
+
+========== INVOICE ==========
+Trans ID     : E5A1EF87
+Customer     : dia
+Waktu        : 2025-11-23 16:53:44
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+03        Vitamin C Serum                  125000.00       1        125000.00  LuminaCare     
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          125000.00
+
+Metode Bayar : Bank - ID: BANK001
+=============================
+
+========== INVOICE ==========
+Trans ID     : 842B7BEA
+Customer     : dia
+Waktu        : 2025-11-23 16:54:19
+
+ID        Nama Barang                          Harga     Qty         Subtotal  Brand          
+----------------------------------------------------------------------------------------------
+04        Retinol Night Cream              150000.00       1        150000.00  DermaAge       
+----------------------------------------------------------------------------------------------
+TOTAL:                                                          150000.00
+
+Metode Bayar : COD - ID: COD001
+=============================
+
